@@ -4,7 +4,7 @@ Team Pyto's entry at EDP's [Hack the Electron A](https://taikai.network/edpdistr
 
 ## tl ; dr
 - [Challenge](https://taikai.network/edpdistribuicao/challenges/hacktheelectron-a)
-- [Our Submission](https://taikai.network/edpdistribuicao/challenges/hacktheelectron-a/projects/cjwdktnzs2eo00930yj1irauo) (it's private, but it's copied [below](##idea))
+- [Our Submission](https://taikai.network/edpdistribuicao/challenges/hacktheelectron-a/projects/cjwdktnzs2eo00930yj1irauo) (it's private, but it's cloned [below](#️-zapzap))
 - *we passed to the finals*
 - [Our finals pitch](https://docs.google.com/presentation/d/1nGbbnWcQl8Q-Gz-yiQBqLTW_ecX0PUhEq6i-hfuOdhc/edit?usp=sharing)
 
